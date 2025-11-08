@@ -2,6 +2,9 @@
 
 Official documentation for the BuoySense IoT Flood Monitoring System, built with [Docusaurus](https://docusaurus.io/).
 
+<img width="1861" height="910" alt="image" src="https://github.com/user-attachments/assets/27ad9d66-aafb-47eb-b83f-9428447b60c2" />
+
+
 ## 🌐 Live Documentation
 
 - **Production**: https://docs-buoysense.yourdomain.com
