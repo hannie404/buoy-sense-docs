@@ -180,14 +180,14 @@ ws.on('message', (data) => {
 
 - [Buoys](./buoys) - Manage and query buoy devices
 - [Sensor Data](./sensor-data) - Access real-time sensor readings
-- [Alerts](./alerts) - Manage flood alerts and notifications
-- [Analytics](./analytics) - Query analytics and reports
-- [Users](./users) - User management (admin only)
 
-### Utility Endpoints
+### Coming Soon
 
-- [Health Check](./health) - API status and uptime
-- [Webhooks](./webhooks) - Configure event webhooks
+- **Alerts API** - Manage flood alerts and notifications
+- **Analytics API** - Query analytics and reports
+- **Users API** - User management (admin only)
+- **Health Check** - API status and uptime
+- **Webhooks** - Configure event webhooks
 
 ## SDKs & Libraries
 
@@ -217,6 +217,6 @@ Download our [Postman Collection](https://postman.com/buoysense) for easy API te
 ## Need Help?
 
 - View detailed endpoint documentation in the sidebar
-- Check our [examples](./examples)
+- Browse the [Buoys API](./buoys) and [Sensor Data API](./sensor-data) references
 - Join our [developer community](https://discord.gg/buoysense)
 - Email: api-support@buoysense.com
