@@ -214,9 +214,9 @@ pnpm build
 
 ## Next Steps
 
-- Configure [API endpoints](./category/api-reference)
-- Set up [LoRa network](./lora-configuration)
-- Deploy [buoy sensors](./buoy-deployment)
-- Configure [alerts](./alert-configuration)
+- Configure [API endpoints](./api-reference/)
+- Review the [API Documentation](./api-reference/)
+- Start building your integration
+- Set up monitoring and alerts
 
-Need help? Check our [FAQ](./faq) or [contact support](mailto:support@buoysense.com).
+Need help? [Contact support](mailto:support@buoysense.com) or check the [API Reference](./api-reference/).
