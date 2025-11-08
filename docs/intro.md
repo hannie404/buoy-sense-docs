@@ -39,10 +39,10 @@ BuoySense is a real-time IoT flood monitoring system that provides:
 
 Choose your path:
 
-- 👤 **End Users**: Start with the [User Guide](./category/user-guide)
-- 💻 **Developers**: Jump to the [API Reference](./category/api-reference)
+- 👤 **End Users**: Start with the [Installation Guide](./installation)
+- 💻 **Developers**: Jump to the [API Reference](./api-reference/)
 - 🔧 **System Administrators**: Check the [Installation Guide](./installation)
-- 🤝 **Contributors**: Read the [Contributing Guide](./contributing)
+- 🤝 **Contributors**: Read the documentation and submit PRs on GitHub
 
 ## System Architecture
 
